@@ -51,7 +51,8 @@ function iLoveTheBeatles(n) {
   var n = 0
   do {
     fandom.push("I love the Beatles!")
-  } while (n < 7)
+    n +=
+  } while (n < 17)
 
   return fandom
 };
