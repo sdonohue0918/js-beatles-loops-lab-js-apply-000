@@ -36,7 +36,7 @@ function johnLennonFacts(facts) {
   return newArray
 };
 
-johnLennonFacts(johnTrivia;)
+johnLennonFacts(johnTrivia);
 
 
 
