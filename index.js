@@ -48,10 +48,9 @@ johnLennonFacts(johnTrivia);
 
 function iLoveTheBeatles(n) {
   var fandom = []
-  let n = 0
   do {
     fandom.push("I love the Beatles!")
-    n += 1
+    n ++
   } while (n < 17)
 
   return fandom
