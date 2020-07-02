@@ -48,7 +48,7 @@ johnLennonFacts(johnTrivia);
 
 function iLoveTheBeatles(n) {
   var fandom = []
-  
+
   do {
     fandom.push("I love the Beatles!")
     n += 1
